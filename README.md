@@ -78,7 +78,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Credits
 
-This project is developed and maintained by [Your Name](https://github.com/your-username).
+This project is developed and maintained by [Shri Krishan](https://github.com/your-username).
 
 ## License
 
