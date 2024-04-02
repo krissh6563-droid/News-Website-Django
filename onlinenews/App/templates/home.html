@@ -6,12 +6,12 @@
 
     <div class="row">
         {% for x in api.articles %}
-        <div class="col-sm">
-            <div class="card mb-5" style="width: 18rem;height:28rem;">
+        <div class="col-sm-4">
+            <div class="card mb-2">
                 <img src="{{x.urlToImage}}" class="card-img-top" alt="x.source.name">
                 <div class="card-body">
                     <h5 class="card-title">{{x.title}}</h5>
-                    <p class="card-text">{{x.description|truncatechars:100}}</p>
+                    <p class="card-text">{{x.description|truncatechars:50}}</p>
                     <a href="{{x.url}}" target="_blank" class="btn btn-primary">Read More..</a>
                 </div>
             </div>
