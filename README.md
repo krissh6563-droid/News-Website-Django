@@ -6,7 +6,6 @@ The Django News Aggregator Project is a web application that allows users to con
 
 ## Features
 
-- **User Authentication**: Users can create accounts, log in, and securely manage their profiles.
 
 - **News Categories**: News articles are categorized into different topics, making it easy for users to explore news relevant to their interests.
 
@@ -14,11 +13,6 @@ The Django News Aggregator Project is a web application that allows users to con
 
 - **Search Functionality**: Users can search for specific news articles using keywords and phrases.
 
-- **Responsive Design**: The user interface is designed to be responsive and accessible on various devices, including desktops, tablets, and smartphones.
-
-- **Saved Articles**: Logged-in users can save articles for later reading, allowing them to curate their own reading list.
-
-- **Social Sharing**: Users can share interesting articles on social media platforms directly from the application.
 
 ## Installation
 
@@ -85,5 +79,3 @@ This project is developed and maintained by [Shri Krishan](https://github.com/yo
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Feel free to customize this README file according to your project's specifics. Good luck with your Django News Aggregator project! If you have any questions or need assistance, please don't hesitate to contact us.
