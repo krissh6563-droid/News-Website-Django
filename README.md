@@ -72,10 +72,14 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Credits
 
-This project is developed and maintained by [Shri Krishan](https://github.com/your-username).
+This project is developed and maintained by [Shri Krishan](https://github.com/krissh6563-droid).
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Live Demo
+
+[click me](https://news-website-django.onrender.com/)
 
 ---
