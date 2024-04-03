@@ -82,4 +82,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 [click me](https://news-website-django.onrender.com/)
 
+## Screenshots
+
+![Screenshot (37)](https://github.com/krissh6563-droid/News-Website-Django/assets/56572543/1415f558-aa77-49d0-b567-15c95971090c)
+
+
 ---
